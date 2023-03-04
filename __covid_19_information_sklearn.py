@@ -1,4 +1,4 @@
-# notice that the new cases/new deaths is kind of awkward because of just how many data points there are.
+# notice that the new cases/new deaths graph is kind of awkward because of just how many data points there are.
 
 import matplotlib.pyplot as plt # To actually graph the Data
 import matplotlib as mpl
